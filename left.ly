@@ -16,7 +16,7 @@ left = \absolute {
   g2 a | % m.5
   b b |
   g2 a |
-  b b |
+  b r |
 
   g,2 a, |
   b, b, |
@@ -59,7 +59,7 @@ left = \absolute {
       fis,2 g, |
       a, b, |
       fis,2 g, |
-      <a, e a>2 r2 |
+      <a, e a>4. r8 r2 |
     }
   >> \oneVoice \mergeDifferentlyHeadedOff
 

@@ -3,7 +3,7 @@
 \consistToContexts #edition-engraver Score.PianoStaff.Staff.Voice
 \consistToContexts #edition-engraver Score.PianoStaff.Dynamics
 
-% \addEdition tweaks
+\addEdition tweaks
 % \addEdition fingering
 \addEdition dynamics
 
@@ -70,3 +70,4 @@
 \editionMod dynamics 26 7/8 music.Voice.A \(
 
 \editionMod dynamics 28 0/4 music.Voice.A \)
+\editionMod tweaks 28 7/16 music.Voice.A \once\override Tie.minimum-length = #3.1

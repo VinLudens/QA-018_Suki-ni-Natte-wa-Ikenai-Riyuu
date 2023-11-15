@@ -16,7 +16,7 @@ left = \absolute {
   g2 a | % m.5
   b b |
   g2 a |
-  b b |
+  b r |
 
   g,2 a, |
   b, b, |
